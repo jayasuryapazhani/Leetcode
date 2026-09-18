@@ -213,4 +213,8 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | ------- |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sparky1505/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sparky1505/Leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jayasuryapazhani/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
