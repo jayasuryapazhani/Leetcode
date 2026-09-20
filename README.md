@@ -7,6 +7,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sparky1505/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/jayasuryapazhani/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Sparky1505/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sparky1505/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sparky1505/Leetcode/tree/master/0027-remove-element) |
@@ -114,6 +115,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jayasuryapazhani/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sparky1505/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sparky1505/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sparky1505/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -200,6 +202,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jayasuryapazhani/Leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Sparky1505/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/Sparky1505/Leetcode/tree/master/1323-maximum-69-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Sparky1505/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
