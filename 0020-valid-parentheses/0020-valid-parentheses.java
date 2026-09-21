@@ -14,7 +14,7 @@ class Solution {
             if(c=='{'||c=='['||c=='('){
                 stack.push(c);
             }else{
-                if(stack.isEmpty() || stack.peek()!=map.get(c)){
+                if(stack.isEmpty() || !stack.peek().equals(map.get(c))){
                     return false;
                 }
                 stack.pop();
