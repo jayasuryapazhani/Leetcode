@@ -98,6 +98,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayasuryapazhani/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sparky1505/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sparky1505/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/jayasuryapazhani/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sparky1505/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/jayasuryapazhani/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sparky1505/Leetcode/tree/master/0058-length-of-last-word) |
@@ -242,4 +243,12 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jayasuryapazhani/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jayasuryapazhani/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jayasuryapazhani/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
