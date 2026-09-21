@@ -62,6 +62,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sparky1505/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jayasuryapazhani/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sparky1505/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/jayasuryapazhani/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/jayasuryapazhani/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -94,6 +95,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jayasuryapazhani/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sparky1505/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sparky1505/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sparky1505/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -236,4 +238,8 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jayasuryapazhani/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jayasuryapazhani/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
