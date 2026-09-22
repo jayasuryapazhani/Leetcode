@@ -24,6 +24,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sparky1505/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sparky1505/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sparky1505/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/jayasuryapazhani/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Sparky1505/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sparky1505/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sparky1505/Leetcode/tree/master/0268-missing-number) |
@@ -188,6 +189,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/jayasuryapazhani/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/jayasuryapazhani/Leetcode/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/Sparky1505/Leetcode/tree/master/0861-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/jayasuryapazhani/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -243,6 +245,7 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jayasuryapazhani/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/jayasuryapazhani/Leetcode/tree/master/0200-number-of-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -259,12 +262,14 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jayasuryapazhani/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/jayasuryapazhani/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/jayasuryapazhani/Leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/jayasuryapazhani/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jayasuryapazhani/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/jayasuryapazhani/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/jayasuryapazhani/Leetcode/tree/master/0463-island-perimeter) |
 ## Tree
 |  |
