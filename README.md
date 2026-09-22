@@ -258,9 +258,19 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jayasuryapazhani/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/jayasuryapazhani/Leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jayasuryapazhani/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/jayasuryapazhani/Leetcode/tree/master/0463-island-perimeter) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jayasuryapazhani/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jayasuryapazhani/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
