@@ -281,4 +281,12 @@ I am Jayasurya and these are the Leetcode Questions I've solved so far
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/jayasuryapazhani/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jayasuryapazhani/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jayasuryapazhani/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/jayasuryapazhani/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
